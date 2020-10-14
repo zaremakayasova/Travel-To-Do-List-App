@@ -1,1 +1,1 @@
-jQuery Based Tavel Todo App.
+jQuery Based Travel Todo App.
